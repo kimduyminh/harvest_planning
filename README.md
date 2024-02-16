@@ -8,5 +8,7 @@ The problem including:
 Output: The tool will return the day that each farm should be gathered to maximize the quantity of products
 
 How to use ?
+
 Line 1: enter N,m,M respectively
+
 From line 2 to N+1: enter d,s,e (quantity,start day,end day) respectively of field (1,..N)
